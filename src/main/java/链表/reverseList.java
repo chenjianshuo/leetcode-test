@@ -1,3 +1,5 @@
+package 链表;
+
 import com.alibaba.fastjson.JSON;
 import org.junit.jupiter.api.DynamicTest;
 import org.junit.jupiter.api.Test;
